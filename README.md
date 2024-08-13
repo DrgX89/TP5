@@ -15,3 +15,5 @@ Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="Din
 # Más sobre Python
 Te invito a leer mi blog, encontrarás más juegos, software y tutoriales:
 https://parzibyte.me/blog/
+
+lo edite y lo hice relacionado al rock nacional
